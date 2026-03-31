@@ -1,0 +1,26 @@
+LOGIN DETAILS FOR PASMS
+
+**************ADMIN************
+USERNAME----admin
+PASSWORD----admin@26
+
+************DOCTORS************
+DEPENDING OF THE DIFFERENT SPECIALIZATION FIELDS
+
+USERNAME                                       PASSWORD
+bruno@gmail.com                                bruno@26
+peter@gmail.com                                peter@26
+mercy@gmail.com                                mercy@26
+allan@gmail.com                                allan@26
+hope@gmail.com                                 hope@26
+maria@gmail.com                                maria@26
+daphine@gmail.com                              daphine@26
+davis@gmail.com                                davis@26
+blade@gmail.com                                blade@26
+mpaata@gmail.com                               mpaata@26
+prima@gmail.com                                prima@26
+
+
+***************PATIENTS*******************
+HERE, I HAVEN'T ANY FOR YOU
+BUT TAKE THE LIBERTY FOR CREATE AS MANY AS YOU CAN 
